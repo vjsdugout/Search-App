@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Lionel Messi",
+        "image": "messi",
+        "team": "Barceelona",
+        "bio": "Lionel Andrés \"Leo\" Messi is an Argentine professional footballer who plays as a forward for Spanish club FC Barcelona and the Argentina national team. Often considered the best player in the world and rated by many in the sport as the greatest of all time, Messi is the only football player in history to win four Ballons d'Or, all of which he won consecutively. With Barcelona, he has won seven La Ligas, three Copas del Rey, and four UEFA Champions Leagues, among other honours. As the all-time top scorer in La Liga and the Champions League, he is the first player to win three European Golden Shoes as the continent's league top scorer and the only player to be top scorer in five Champions League seasons. Born and raised in central Argentina, Messi was diagnosed with a growth hormone deficiency as a child. At age 13, he relocated to Spain to join Barcelona, who were willing to pay for his medical treatment. After an unusually fast progression through Barcelona's youth academy, Messi made his first team debut aged 16 in November 2003. Although injury-prone during his early years with the first team, he established himself as an integral player for the club within the next four years, finishing 2007 as a finalist for both the Ballon d'Or and FIFA World Player of the Year award, a feat he repeated the following year. He played his first uninterrupted campaign in 2008–09, during which Barcelona achieved the first treble in Spanish football. At 22 years old, Messi won the 2009 Ballon d'Or and FIFA World Player of the Year award by record voting margins. Three successful seasons followed, with Messi winning three consecutive FIFA Ballons d'Or, including his unprecedented fourth. He played his personal best campaign in the 2011–12 season, setting the La Liga and European records for most goals scored in a single season, while establishing himself as Barcelona's all-time top scorer in all official club competitions in March 2012." 
+   },
+   {
+        "name": "Cristiano Ronaldo",
+        "image": "ronaldo",
+        "team": "Real Madrid",
+        "bio": "Cristiano Ronaldo dos Santos Aveiro, known as Cristiano Ronaldo, is a Portuguese professional footballer who plays for Spanish club Real Madrid and the Portugal national team. He is a forward and serves as captain for Portugal. By the age of 22, Ronaldo had received Ballon d'Or and FIFA World Player of the Year nominations. The following year, in 2008, he won his first Ballon d'Or and FIFA World Player of the Year awards. He followed this up by winning the FIFA Ballon d'Or in 2013 and 2014. He also won the 2013–14 UEFA Best Player in Europe Award. In January 2014, Ronaldo scored his 400th senior career goal for club and country aged 28. Often ranked as the best player in the world[5] and rated by some in the sport as the greatest of all time, Ronaldo is the first Portuguese footballer to win three FIFA/Ballons d'Or, and the first player to win four European Golden Shoe awards. In January 2015, Ronaldo was named as the best Portuguese player of all time by the Portuguese Football Federation, during its 100th anniversary celebrations. With Manchester United and Real Madrid, he has won three Premier Leagues, one La Liga, one FA Cup, two Football League Cups, two Copas del Rey, one FA Community Shield, one Supercopas de España, two UEFA Champions League, one UEFA Super Cup and two FIFA Club World Cups."
+    },
+    {
+        "name": "Luis Suarez",
+        "image": "suarez",
+        "team": "Barceelona",
+        "bio": ""
+    },
+    {
+        "name": "Manuel Neuer",
+        "image": "neuer",
+        "team": "Bayern Munchen",
+        "bio": "Manuel Peter Neuer (born 27 March 1986) is a German footballer who plays as a goalkeeper for Bayern Munich and the Germany national team. He has been described as a \"sweeper-keeper\" because of his unique playing style and is known for his quick reflexes, excellent shot-stopping abilities, command of his area and accurate distribution of the ball. Neuer won the 2014 FIFA World Cup with Germany as well as the Golden Glove award for being the best goalkeeper in the tournament and is considered by some to be the best goalkeeper in football since Lev Yashin."
+    },
+    {
+        "name": "Arjen Robben",
+        "image": "robben",
+        "team": "Bayern Munchen",
+        "bio": ""
+    },
+    {
+        "name": "Eden Hazard",
+        "image": "hazard",
+        "team": "Chelsea",
+        "bio": ""
+    },
+    {
+        "name": "Zlatan Ibrahimovic",
+        "image": "ibrahimovic",
+        "team": "Paris Saint Germain",
+        "bio": ""
+    },
+    {
+        "name": "Neymar Jr",
+        "image": "neymar",
+        "team": "Barceelona",
+        "bio": ""
+    },
+    {
+        "name": "Thiago Silva",
+        "image": "thiago",
+        "team": "Paris Saint Germain",
+        "bio": ""
+    },
+    {
+        "name": "David Silva",
+        "image": "silva",
+        "team": "Manchester City",
+        "bio": ""
+    },
+    {
+        "name": "Andres Iniesta",
+        "image": "iniesta",
+        "team": "Barceelona",
+        "bio": ""
+    },
+    {
+        "name": "Sergio Aguero",
+        "image": "aguero",
+        "team": "Manchester City",
+        "bio": ""
+    },
+    {
+        "name": "James Rodriguez",
+        "image": "james",
+        "team": "Real Madrid",
+        "bio": ""
+    },
+    {
+        "name": "Toni Kroos",
+        "image": "kroos",
+        "team": "Real Madrid",
+        "bio": ""
+    },
+    {
+        "name": "Jerome Boateng",
+        "image": "boateng",
+        "team": "Bayren Munchen",
+        "bio": ""
+    },
+    {
+        "name": "Cesc Fabregas",
+        "image": "fabregas",
+        "team": "Chelsea",
+        "bio": ""
+    },
+    {
+        "name": "Sergio Ramos",
+        "image": "ramos",
+        "team": "Real Madrid",
+        "bio": ""
+    },
+    {
+        "name": "Luka Modric",
+        "image": "modric",
+        "team": "Real Madrid",
+        "bio": ""
+    },
+    {
+        "name": "Mesut Ozil",
+        "image": "ozil",
+        "team": "Arsenal",
+        "bio": ""
+    },
+    {
+        "name": "Phillip Lahm",
+        "image": "lahm",
+        "team": "Bayern Munchen",
+        "bio": ""
+    },
+    {
+        "name": "Robert Lewandowski",
+        "image": "lewandowski",
+        "team": "Bayern Munchen",
+        "bio": ""
+    },
+    {
+        "name": "Franck Ribery",
+        "image": "ribery",
+        "team": "Bayern Munchen",
+        "bio": ""
+    },
+    {
+        "name": "Gareth Bale",
+        "image": "bale",
+        "team": "Real Madrid",
+        "bio": ""
+    },
+    {
+        "name": "Giorgio Chiellini",
+        "image": "chiellini",
+        "team": "Juventus",
+        "bio": ""
+    },
+    {
+        "name": "Alexis Sanchez",
+        "image": "sanchez",
+        "team": "Arsenal",
+        "bio": ""
+    },
+    {
+        "name": "David De Gea",
+        "image": "degea",
+        "team": "Manchester United",
+        "bio": ""
+    },
+    {
+        "name": "Carlos Tevez",
+        "image": "tevez",
+        "team": "Boca Juniors",
+        "bio": ""
+    },
+    {
+        "name": "Kevin De Bruyne",
+        "image": "bruyne",
+        "team": "Manchester City",
+        "bio": ""
+    },
+    {
+        "name": "Sergio Busquets",
+        "image": "busquets",
+        "team": "Barcelona",
+        "bio": ""
+    },
+    {
+        "name": "Diego Costa",
+        "image": "costa",
+        "team": "Chelsea",
+        "bio": ""
+    },
+    {
+        "name": "Paul Pogba",
+        "image": "pogba",
+        "team": "Juventus",
+        "bio": ""
+    },
+    {
+        "name": "Thibaut Courtois",
+        "image": "courtois",
+        "team": "Chelsea",
+        "bio": ""
+    },
+    {
+        "name": "Karim Benzema",
+        "image": "benzema",
+        "team": "Real Madrid",
+        "bio": ""
+    },
+    {
+        "name": "Thomas Muller",
+        "image": "muller",
+        "team": "Bayern Munchen",
+        "bio": ""
+    },
+    {
+        "name": "Arturo Vidal",
+        "image": "vidal",
+        "team": "Bayern Munchen",
+        "bio": ""
+    },
+    {
+        "name": "Wayne Rooney",
+        "image": "rooney",
+        "team": "Manchester United",
+        "bio": ""
+    },
+    {
+        "name": "Marco Reus",
+        "image": "reus",
+        "team": "Borussia Dortmund",
+        "bio": ""
+    },
+    {
+        "name": "Bastian Schweinsteiger",
+        "image": "schweinsteiger",
+        "team": "Manchester United",
+        "bio": ""
+    },
+    {
+        "name": "Mats Hummels",
+        "image": "hummels",
+        "team": "Borussia Dortmund",
+        "bio": ""
+    },
+    {
+        "name": "Gerard Pique",
+        "image": "pique",
+        "team": "Barceelona",
+        "bio": ""
+    },
+    {
+        "name": "Santi Cazorla",
+        "image": "cazorla",
+        "team": "Arsenal",
+        "bio": ""
+    },
+    {
+        "name": "Yaya Toure",
+        "image": "toure",
+        "team": "Manchester City",
+        "bio": ""
+    },
+    {
+        "name": "David Alaba",
+        "image": "alaba",
+        "team": "Bayern Munchen",
+        "bio": ""
+    },
+    {
+        "name": "John Terry",
+        "image": "terry",
+        "team": "Chelsea",
+        "bio": ""
+    },
+    {
+        "name": "Diego Godin",
+        "image": "godin",
+        "team": "Atletico Madrid",
+        "bio": ""
+    },
+    {
+        "name": "Naldo",
+        "image": "naldo",
+        "team": "VFL Wolfsburg",
+        "bio": ""
+    },
+    {
+        "name": "Vincent Kompany",
+        "image": "kompany",
+        "team": "Manchester City",
+        "bio": ""
+    },
+    {
+        "name": "Edinson Cavani",
+        "image": "cavani",
+        "team": "Paris Saint Germain",
+        "bio": ""
+    },
+    {
+        "name": "Petr Cech",
+        "image": "cech",
+        "team": "Arsenal",
+        "bio": ""
+    },
+    {
+        "name": "Angel Di Maria",
+        "image": "dimaria",
+        "team": "Paris Saint Germain",
+        "bio": ""
+    }
+]
