@@ -70,8 +70,7 @@ input:focus
 }
 .result_list li
 {
-	margin: 0;
-	margin-bottom: 1px dotted;
+	margin: 10px 0px;
 	padding: 2%;
 	background: #EEE;
 	border-bottom: 1px dotted #ccc;

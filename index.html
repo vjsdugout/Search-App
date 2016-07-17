@@ -5,15 +5,23 @@
 		<title> Search Soccer</title>
 		<link type = 'text/css' rel = 'stylesheet' href = 'style.css'>
 		<link rel="shortcut icon" href="favicon/favicon.ico">
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
 		<script src = 'jquery.js'></script>
-		<script src = 'script.js'></script>
+		<script src = 'script1.js'></script>
 	</head>
 	<body>
 		<div id = 'wrapper'>
-			<div id = 'search'>
+			<div id = 'search' ng-app='searchFootball' ng-controller='searchCtrl'>
 				<label for = 'search_bar'>Search Football</label><br>
 				<p> Enter name or info about a player</p>
-				<input type = 'search' name = 'search' id = 'search_bar' placeholder = 'Name'>
+				<input type = 'search' name = 'search' id = 'search_bar' placeholder = 'Name' ng-change='getData(key)' ng-model='key'>
+				<ul class = 'result_list'>
+					<li ng-repeat='x in data | filter: {name: key}'>
+						<h2>{{x.name}}</h2>
+						<img ng-src = {{'images/'+x.image+'.jpg'}} alt={{x.name}}>
+						<p>{{x.bio}}</p>
+					</li>
+				</ul>
 			</div>
 			<div id = 'results'></div>
 		</div>
